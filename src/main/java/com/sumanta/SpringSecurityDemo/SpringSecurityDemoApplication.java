@@ -10,5 +10,6 @@ public class SpringSecurityDemoApplication {
 		SpringApplication.run(SpringSecurityDemoApplication.class, args);
 	}
 	//random changes
+	//random changes 2
 
 }
