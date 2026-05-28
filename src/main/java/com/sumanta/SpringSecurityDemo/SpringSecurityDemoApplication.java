@@ -9,18 +9,4 @@ public class SpringSecurityDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityDemoApplication.class, args);
 	}
-	//random changes
-	//random changes2
-	//random changes3
-	//random changes4
-	//pull request changes in testBranch
-
-
-	//random changes in here main
-	//random changes in here main3
-	// pull reqeuest changes in main
-	// pull request changes in main 3
-	
-	//random changes in here main3
-	//raniogjsgjsdklgjasdkogjksdajklgjasdkl;gjklsadjgklsadjklgjklasd test Brtachasdiojgasdjg
 }
